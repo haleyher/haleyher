@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Haley Hernandez 
+---
+- Currently working on GrusMinions.
 <a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=haleyher&theme=radical">
 </a>
