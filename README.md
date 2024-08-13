@@ -8,7 +8,7 @@ Haley Hernandez
 </h1>
 
 <ul>
-  <li> <h2> Currently working on RecycleQuest, a mobile app encouraging recycling. </h2></li>
+  <li> <h2> Currently working on attending university. </h2></li>
 
 </ul>
 
