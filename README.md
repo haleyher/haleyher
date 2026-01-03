@@ -8,7 +8,7 @@ Haley Hernandez
 </h1>
 
 <ul>
-  <li> <h2> Currently interning in Lithuania. </h2></li>
+  <li> <h2> Doing school work </h2></li>
 
 </ul>
 
