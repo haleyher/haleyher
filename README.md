@@ -2,7 +2,7 @@
 
 # Hi, I'm Haley Hernandez
 
-### AI @ MIT • Machine Learning • Software Engineering • Data Science
+### AI & Decision-Making @ MIT • Machine Learning • Software Engineering • Data Science
 
 <p>
   <a href="https://github.com/haleyher">
