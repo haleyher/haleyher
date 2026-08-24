@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Haley Hernandez
-
 ### AI & Decision-Making @ MIT • Machine Learning • Software Engineering • Data Science
 
 <p>
@@ -10,7 +9,7 @@
   </a>
 </p>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=haleyher&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haleyher&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=haleyher&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=haleyher&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
